@@ -1,0 +1,15 @@
+# Cargo build output
+/target/
+**/target/
+
+# rustfmt backups
+**/*.rs.bk
+
+# MSVC debug info
+*.pdb
+
+# JetBrains / RustRover
+.idea/
+
+# macOS
+.DS_Store
